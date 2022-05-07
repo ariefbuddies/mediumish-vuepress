@@ -1,6 +1,6 @@
 ---
-title: About
-description: A simple page about this site
+title: Tentang
+description: 'A simple page '
 
 ---
 # About
